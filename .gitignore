@@ -1,0 +1,7 @@
+*.DS_Store
+default.typubset
+dotfiles.typubset
+emails.typubset
+personal.typubset
+sieve.typubset
+_*.typubset
